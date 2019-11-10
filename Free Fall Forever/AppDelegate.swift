@@ -5,7 +5,6 @@
 //  Created by Jason Cardinale on 11/4/18.
 //  Copyright © 2018 Jason Cardinale. All rights reserved.
 //
-//
 
 import UIKit
 import Firebase
