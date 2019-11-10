@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Free Fall.xcodeproj">
+      location = "self:/Users/jasoncardinale/Desktop/Free Fall/Free Fall.xcodeproj">
    </FileRef>
 </Workspace>
